@@ -10,9 +10,9 @@ The hands-on side of my client work at [Eriksen Ventures](https://eriksenventure
 - 🗄️ **Data platforms & ERP data migrations** — data models, pipelines, and the tooling that moves businesses onto new systems with their data intact
 - 📊 **Analytics, reporting & insights** — building dashboards, reports & web apps that support leaders in understanding their business and making data-driven decisions
 
-## Tech I work with
+## Tech I have worked with
 
-**Data & analytics:** `Microsoft Fabric` · `Azure Synapse` · `Power BI` · `Azure Data Factory` · `Databricks` · `dbt`
+**Data & analytics:** `Microsoft Fabric` · `Azure Synapse` · `Power BI` · `Tableau` · `Azure Data Factory` · `Databricks` · `dbt`
 
 **Cloud:** `Azure` · `AWS` · `Oracle Cloud`
 
