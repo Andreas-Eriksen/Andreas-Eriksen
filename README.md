@@ -4,17 +4,11 @@ Founder at **[Eriksen Ventures](mailto:andreas@eriksenventures.com)** — based 
 
 ## What I'm working on
 
-- 📈 **Algorithmic trading & market analysis** — building tools to research and act on market data
-- 🐍 **Python** — data pipelines, dashboards, and automation
-- 📊 **Data visualization** — turning market insights into something you can actually read
+Through Eriksen Ventures, I help clients turn their data into decisions:
 
-## Current focus
-
-🔭 **Project-Algo** — my main ongoing project, exploring systematic approaches to the markets.
-
-## Tech I use
-
-`Python` · `Streamlit` · `Pandas` · `Git`
+- 📊 **Custom dashboards & reporting** — giving clients a clear, live view of the numbers that matter to them
+- 🔁 **Automation** — replacing manual data work with pipelines that run themselves
+- 📈 **Market & investment analysis** — research tooling for data-driven investment decisions
 
 ## Get in touch
 
