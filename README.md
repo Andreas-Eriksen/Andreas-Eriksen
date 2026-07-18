@@ -8,7 +8,7 @@ The hands-on side of my client work at [Eriksen Ventures](https://eriksenventure
 
 - 🤖 **AI agents & automation** — building agents and automated workflows that take manual work out of business processes, from use case to production
 - 🗄️ **Data platforms & ERP data migrations** — data models, pipelines, and the tooling that moves businesses onto new systems with their data intact
-- 📊 **Analytics & dashboards** — Python-based tooling that turns operational data into something leaders can act on
+- 📊 **Analytics, reporting & insights** — building dashboards, reports & web apps that support leaders in understanding their business and making data-driven decisions
 
 ## Tech I work with
 
