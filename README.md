@@ -4,12 +4,15 @@ Founder at **[Eriksen Ventures](mailto:andreas@eriksenventures.com)** — based 
 
 ## What I'm working on
 
-Through [Eriksen Ventures](https://eriksenventures.com/), I work with clients on four kinds of work, one through-line: strategy and delivery, end to end.
+The hands-on side of my client work at [Eriksen Ventures](https://eriksenventures.com/) — the things I actually build:
 
-- 🧭 **Transformation leadership** — leading complex, cross-functional programmes from strategy to delivery, turning vision into measurable impact
-- 🗄️ **Data strategy, governance & migration** — defining data operating models, establishing governance frameworks, and leading ERP data migrations
-- ⚙️ **Operational efficiency & automation** — removing operational bottlenecks and building solutions that reduce manual effort while improving quality and decision-making
-- 🤖 **AI implementation** — from use case to production: finding where AI genuinely pays off, building the agents and workflows to deliver it, and getting it adopted across the business
+- 🤖 **AI agents & automation** — building agents and automated workflows that take manual work out of business processes, from use case to production
+- 🗄️ **Data platforms & ERP data migrations** — data models, pipelines, and the tooling that moves businesses onto new systems with their data intact
+- 📊 **Analytics & dashboards** — Python-based tooling that turns operational data into something leaders can act on
+
+## Tech I work with
+
+`Python` · `Pandas` · `Streamlit` · `SQL` · `Claude & LLM APIs` · `Git`
 
 ## Get in touch
 
