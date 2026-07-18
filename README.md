@@ -7,8 +7,8 @@ Founder at **[Eriksen Ventures](mailto:andreas@eriksenventures.com)** — based 
 Through Eriksen Ventures, I help clients turn their data into decisions:
 
 - 📊 **Custom dashboards & reporting** — giving clients a clear, live view of the numbers that matter to them
-- 🔁 **Automation** — replacing manual data work with pipelines that run themselves
-- 📈 **Market & investment analysis** — research tooling for data-driven investment decisions
+- 🔁 **Workflow automation** — replacing manual, repetitive work with processes that run themselves
+- 🤖 **AI-powered automation** — helping clients put AI to work in their day-to-day operations
 
 ## Get in touch
 
