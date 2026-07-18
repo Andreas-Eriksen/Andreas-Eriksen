@@ -12,7 +12,15 @@ The hands-on side of my client work at [Eriksen Ventures](https://eriksenventure
 
 ## Tech I work with
 
-`Python` · `Pandas` · `Streamlit` · `SQL` · `Microsoft Fabric` · `Azure Synapse` · `Azure` · `AWS` · `Oracle` · `Claude & LLM APIs` · `Git`
+**Data & analytics:** `Microsoft Fabric` · `Azure Synapse` · `Power BI` · `Azure Data Factory` · `Databricks` · `dbt`
+
+**Cloud:** `Azure` · `AWS`
+
+**ERP:** `Oracle` · `SAP` · `Dynamics 365`
+
+**AI & automation:** `Claude & LLM APIs` · `Azure OpenAI` · `Power Automate`
+
+**Languages:** `Python` · `SQL`
 
 ## Get in touch
 
