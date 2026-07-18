@@ -4,11 +4,12 @@ Founder at **[Eriksen Ventures](mailto:andreas@eriksenventures.com)** — based 
 
 ## What I'm working on
 
-Through Eriksen Ventures, I help clients turn their data into decisions:
+Through [Eriksen Ventures](https://eriksenventures.com/), I work with clients on four kinds of work, one through-line: strategy and delivery, end to end.
 
-- 📊 **Custom dashboards & reporting** — giving clients a clear, live view of the numbers that matter to them
-- 🔁 **Workflow automation** — replacing manual, repetitive work with processes that run themselves
-- 🤖 **AI-powered automation** — helping clients put AI to work in their day-to-day operations
+- 🧭 **Transformation leadership** — leading complex, cross-functional programmes from strategy to delivery, turning vision into measurable impact
+- 🗄️ **Data strategy, governance & migration** — defining data operating models, establishing governance frameworks, and leading ERP data migrations
+- ⚙️ **Operational efficiency & automation** — removing operational bottlenecks and building solutions that reduce manual effort while improving quality and decision-making
+- 🤖 **AI implementation** — from use case to production: finding where AI genuinely pays off, building the agents and workflows to deliver it, and getting it adopted across the business
 
 ## Get in touch
 
