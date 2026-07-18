@@ -1,6 +1,6 @@
 # Hi, I'm Andreas 👋
 
-Founder at **[Eriksen Ventures](mailto:andreas@eriksenventures.com)** — based in Denmark 🇩🇰
+Founder at **[Eriksen Ventures](https://eriksenventures.com/)** — based in Denmark 🇩🇰
 
 ## What I'm working on
 
