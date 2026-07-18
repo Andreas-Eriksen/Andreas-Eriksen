@@ -12,7 +12,7 @@ The hands-on side of my client work at [Eriksen Ventures](https://eriksenventure
 
 ## Tech I work with
 
-`Python` · `Pandas` · `Streamlit` · `SQL` · `Claude & LLM APIs` · `Git`
+`Python` · `Pandas` · `Streamlit` · `SQL` · `Microsoft Fabric` · `Azure Synapse` · `Azure` · `AWS` · `Oracle` · `Claude & LLM APIs` · `Git`
 
 ## Get in touch
 
