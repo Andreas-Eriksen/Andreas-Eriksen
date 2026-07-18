@@ -7,8 +7,8 @@ Founder at **[Eriksen Ventures](mailto:andreas@eriksenventures.com)** — based 
 The hands-on side of my client work at [Eriksen Ventures](https://eriksenventures.com/) — the things I actually build:
 
 - 🤖 **AI agents & automation** — building agents and automated workflows that take manual work out of business processes, from use case to production
-- 🗄️ **Data platforms** — building data models, pipelines, and cloud data platforms that turn information into a competitive advantage
-- 🔄 **ERP data migrations** — the extraction, transformation, and migration tooling that moves businesses onto new systems with their data intact
+- 🗄️ **Data platforms** — from strategy and architecture to build: designing data operating models and structures, then delivering the models, pipelines, and cloud data platforms that turn information into a competitive advantage
+- 🔄 **ERP data migrations** — designing the migration strategy and target data structures, then building the extraction, transformation, and migration tooling that moves businesses onto new systems with their data intact
 - 📊 **Analytics, reporting & insights** — building dashboards, reports & web apps that support leaders in understanding their business and making data-driven decisions
 
 ## Tech I have worked with
