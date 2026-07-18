@@ -14,9 +14,9 @@ The hands-on side of my client work at [Eriksen Ventures](https://eriksenventure
 
 **Data & analytics:** `Microsoft Fabric` · `Azure Synapse` · `Power BI` · `Azure Data Factory` · `Databricks` · `dbt`
 
-**Cloud:** `Azure` · `AWS`
+**Cloud:** `Azure` · `AWS` · `Oracle Cloud`
 
-**ERP:** `Oracle` · `SAP` · `Dynamics 365`
+**ERP:** `Oracle Fusion` · `NetSuite` · `IFS` · `SAP` · `Dynamics 365`
 
 **AI & automation:** `Claude & LLM APIs` · `Azure OpenAI` · `Power Automate`
 
